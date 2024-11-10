@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-![HR Analytics Dashboard](path_to_screenshot) <!-- Add a screenshot of the dashboard -->
+![HR Analytics Dashboard](https://github.com/JoyBiswasgithub/Company-Attrition-Analytics/blob/main/file%20(1).pdf) <!-- Add a screenshot of the dashboard -->
 
 ## Overview
 
